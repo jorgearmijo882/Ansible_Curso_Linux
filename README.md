@@ -1,12 +1,6 @@
-Este es un repositorio para configuracion de los equipos CON CentOS7 de los alumnos para el curso de Linux 1
+Este es un repositorio para configuracion de servidores de red con sistema operativo CentOS7 para los alumnos del curso de Linux 1.
 
-El curso pretende cubrir configuraciones de servicios de Red como:
+El curso pretende cubrir configuraciones de servicios como:
+DHCP, DNS, HTTP, VSFTP, NFS, MAIL, SAMBA, TFTP
+Asi como tambien comandos basicos y utiles para la administracion de servidores Linux. 
 
-DHCP
-DNS
-HTTP
-VSFTP
-NFS
-MAIL
-SAMBA
-TFTP
